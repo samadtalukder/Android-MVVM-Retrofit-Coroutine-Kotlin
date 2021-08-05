@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android MVVM Retrofit Coroutine Kotlin</string>
+    <string name="normal_text">Bangladesh</string>
+</resources>
